@@ -23,3 +23,30 @@ This repository highlights my **knowledge, lifecycle diagrams, ISMS, GRC, TPRM D
 ---
 
 ## 📂 Repository Structure
+
+---
+
+## 🛠 Automation & Tools
+- **Python scripts** for compliance automation:
+  - Risk register generator
+  - Audit checklist automation
+  - Packet sniffing (Scapy) for security testing
+- **Lifecycle diagrams** for frameworks
+- **Dummy policies/templates** (non‑confidential)
+
+---
+
+## 🎯 Why This Portfolio Matters
+- Demonstrates **hands‑on capability** beyond theory
+- Showcases **global exposure** (India, UAE, Saudi, US)
+- Positions me as a **GRC Automation Specialist**
+- Provides recruiters with **evidence of applied knowledge**
+
+---
+
+## 📬 Connect With Me 
+- **LinkedIn**: [https://www.linkedin.com/in/ranjeet-kumar-information-security-manager-iso27001/]
+- **Email**: [55ranjeetkumar@gmail.com]
+- **Location**: Delhi, India (open to GCC relocation & remote roles)
+
+---
